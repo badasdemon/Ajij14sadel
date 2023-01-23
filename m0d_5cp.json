@@ -1,79 +1,80 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_natives":"",
-      "open_ads_admob":"",
-      "switch_banner_natives":"1",
-      "on_off_native_listview":"1",
-      "interval_intertitial": 2,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],"Categories":
-  [
-    {
-    "category":"All Mods"
-  },{
-    "category":"Mods"
-  },{
-    "category":"Other Mods"
-  }
-  ],
-  "Mods":
-  [
-    {
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"file:///android_asset/ajiji.html"
-    },
-	{
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"file:///android_asset/ajiji.html"
-    },
-	{
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"file:///android_asset/ajiji.html"
-    },
-	{
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"file:///android_asset/ajiji.html"
-    },
-	{
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"file:///android_asset/ajiji.html"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "IRON",
+			"main_ads_banner": "",
+			"main_ads_intertitial": "",
+			"main_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_natives": "",
+			"open_ads_admob": "",
+			"switch_banner_natives": "1",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 2,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Categories": [
+		{
+			"category": "All Mods"
+		},
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "173 Unity",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Ajijiasadel/SCP/173%20Unity/173%20Unity.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Ajijiasadel/SCP/173%20Unity/173%20Unity.zip",
+			"description": "file:///android_asset/ajiji.html"
+		},
+		{
+			"id": 2,
+			"name": "Alpha 1",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Ajijiasadel/SCP/Alpha%201/Alpha%201.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Ajijiasadel/SCP/Alpha%201/Alpha%201.zip",
+			"description": "file:///android_asset/ajiji.html"
+		},
+		{
+			"id": 3,
+			"name": "G O C Terrhona",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Ajijiasadel/SCP/G%20O%20C%20Terrhona/G%20O%20C%20Terrhona.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Ajijiasadel/SCP/G%20O%20C%20Terrhona/G%20O%20C%20Terrhona.zip",
+			"description": "file:///android_asset/ajiji.html"
+		},
+		{
+			"id": 4,
+			"name": "m4 scp version",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Ajijiasadel/SCP/m4%20scp%20version/m4%20scp%20version.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Ajijiasadel/SCP/m4%20scp%20version/m4%20scp%20version.zip",
+			"description": "file:///android_asset/ajiji.html"
+		},
+		{
+			"id": 5,
+			"name": "Mod for SCP 087-B",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Ajijiasadel/SCP/Mod%20for%20SCP%20087-B/Mod%20for%20SCP%20087-B.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Ajijiasadel/SCP/Mod%20for%20SCP%20087-B/Mod%20for%20SCP%20087-B.zip",
+			"description": "file:///android_asset/ajiji.html"
+		}
+	]
 }
