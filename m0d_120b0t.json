@@ -1,79 +1,80 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_natives":"",
-      "open_ads_admob":"",
-      "switch_banner_natives":"1",
-      "on_off_native_listview":"1",
-      "interval_intertitial": 2,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],"Categories":
-  [
-    {
-    "category":"All Mods"
-  },{
-    "category":"Mods"
-  },{
-    "category":"Other Mods"
-  }
-  ],
-  "Mods":
-  [
-    {
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"file:///android_asset/ajiji.html"
-    },
-	{
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"file:///android_asset/ajiji.html"
-    },
-	{
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"file:///android_asset/ajiji.html"
-    },
-	{
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"file:///android_asset/ajiji.html"
-    },
-	{
-      "id":,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/",
-      "download":"https://aweu.net/2023/BENDOIL/",
-      "description":"file:///android_asset/ajiji.html"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "IRON",
+			"main_ads_banner": "",
+			"main_ads_intertitial": "",
+			"main_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_natives": "",
+			"open_ads_admob": "",
+			"switch_banner_natives": "1",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 2,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Categories": [
+		{
+			"category": "All Mods"
+		},
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "Boston Dynamics Atlas robot",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Ajijiasadel/Robot/Boston%20Dynamics%20Atlas%20robot/Boston%20Dynamics%20Atlas%20robot.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Ajijiasadel/Robot/Boston%20Dynamics%20Atlas%20robot/Boston%20Dynamics%20Atlas%20robot.zip",
+			"description": "file:///android_asset/ajiji.html"
+		},
+		{
+			"id": 2,
+			"name": "Defender MK-1 Combat Robot",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Ajijiasadel/Robot/Defender%20MK-1%20Combat%20Robot/Defender%20MK-1%20Combat%20Robot.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Ajijiasadel/Robot/Defender%20MK-1%20Combat%20Robot/Defender%20MK-1%20Combat%20Robot.zip",
+			"description": "file:///android_asset/ajiji.html"
+		},
+		{
+			"id": 3,
+			"name": "KALOS Combat Robot​",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Ajijiasadel/Robot/KALOS%20Combat%20Robot%E2%80%8B/KALOS%20Combat%20Robot.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Ajijiasadel/Robot/KALOS%20Combat%20Robot%E2%80%8B/KALOS%20Combat%20Robot%E2%80%8B.zip",
+			"description": "file:///android_asset/ajiji.html"
+		},
+		{
+			"id": 4,
+			"name": "Military robot sultan f34​",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Ajijiasadel/Robot/Military%20robot%20sultan%20f34%E2%80%8B/Military%20robot%20sultan%20f34.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Ajijiasadel/Robot/Military%20robot%20sultan%20f34%E2%80%8B/Military%20robot%20sultan%20f34%E2%80%8B.zip",
+			"description": "file:///android_asset/ajiji.html"
+		},
+		{
+			"id": 5,
+			"name": "NPC - HIM YX880 - Cleaner",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Ajijiasadel/Robot/NPC%20-%20HIM%20YX880%20-%20Cleaner/NPC%20-%20HIM%20YX880%20-%20Cleaner.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Ajijiasadel/Robot/NPC%20-%20HIM%20YX880%20-%20Cleaner/NPC%20-%20HIM%20YX880%20-%20Cleaner.zip",
+			"description": "file:///android_asset/ajiji.html"
+		}
+	]
 }
